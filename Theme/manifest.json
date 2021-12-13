@@ -1,0 +1,39 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "uberAgent ESA",
+  "theme": {
+    "images": {
+    },
+    "properties": {},
+    "colors": {
+      "toolbar": "rgb(132, 201, 212)",
+      "toolbar_text": "rgb(0, 0, 0)",
+      "frame": "rgb(0, 0, 0)",
+      "tab_background_text": "rgb(132, 201, 212)",
+      "toolbar_field": "rgb(132, 201, 212)",
+      "toolbar_field_text": "rgb(0, 0, 0)",
+      "tab_line": "rgb(0, 0, 0)",
+      "popup": "rgb(132, 201, 212)",
+      "popup_text": "rgb(0, 0, 0)",
+      "button_background_active": "rgb(39, 114, 124)",
+      "button_background_hover": "rgb(39, 114, 124)",
+      "frame_inactive": "rgb(0, 0, 0)",
+      "icons": "rgb(0, 0, 0)",
+      "popup_border": "rgb(67, 183, 200)",
+      "popup_highlight_text": "rgb(255, 255, 255)",
+      "popup_highlight": "rgb(39, 114, 124)",
+      "sidebar_border": "rgb(132, 201, 212)",
+      "sidebar_highlight_text": "rgb(255, 255, 255)",
+      "sidebar_highlight": "rgb(39, 114, 124)",
+      "sidebar_text": "rgb(0, 0, 0)",
+      "sidebar": "rgb(67, 183, 200)",
+      "toolbar_bottom_separator": "rgb(132, 201, 212)",
+      "toolbar_field_border": "rgb(39, 114, 124)",
+      "toolbar_field_focus": "rgb(132, 201, 212)",
+      "toolbar_field_highlight": "rgb(39, 114, 124)",
+      "toolbar_top_separator": "rgb(132, 201, 212)",
+      "tab_loading": "rgb(0, 0, 0)"
+    }
+  }
+}
