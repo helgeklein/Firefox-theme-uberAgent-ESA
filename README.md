@@ -1,6 +1,10 @@
 # Firefox Theme uberAgent ESA
 
-A theme based on the color scheme of [uberAgent ESA](https://uberagent.com/). The toolbar color has been chosen in such a way that the browser does NOT auto-select dark mode for websites.
+A theme based on the color scheme of [uberAgent ESA](https://uberagent.com/), vast limits' endpoint security analytics product. The toolbar color has been chosen in such a way that the browser does NOT auto-select dark mode for websites.
+
+## Installation
+
+The theme is available for [installation at Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/uberagent-esa/).
 
 ## Notes
 
